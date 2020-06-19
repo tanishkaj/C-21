@@ -1,2 +1,2 @@
-# C-21
-Writing Functions Which Can Take Arguments
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
